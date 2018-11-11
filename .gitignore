@@ -102,3 +102,4 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+week3/starspace_embedding
