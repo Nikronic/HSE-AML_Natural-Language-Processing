@@ -1,0 +1,2 @@
+download trained model and prepared .tsv files here:
+https://drive.google.com/drive/folders/1dAgv45MJRv72vjzOTjotSsVkr5uG1rHi?usp=sharing
